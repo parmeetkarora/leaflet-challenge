@@ -1,0 +1,15 @@
+#map {
+  height: 600px;
+  width: 100%;
+}
+.legend {
+  background-color: white;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+}
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+}
